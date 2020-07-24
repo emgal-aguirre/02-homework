@@ -1,0 +1,32 @@
+.textabout {
+    display: inline-flex;
+}
+
+.myimage {
+    width: 40vw;
+    height: auto;
+    max-width: 40vw;   
+    max-height: auto;
+}
+
+.font-name {
+    font-family: montserrat;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.font-nav {
+    font-family: montserrat;
+    color: black;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+h1 {
+    font-family: montserrat;
+    color: #ce796b;
+    font-weight: bold;
+    font-size: 50px;
+
+}
