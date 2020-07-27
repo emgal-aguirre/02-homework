@@ -49,5 +49,10 @@ p {
     height: auto;
     max-width: 30vw;   
     max-height: auto;
+    float: left;
 }
 
+.intro {
+    float: right;
+    margin-left: 10%
+}
