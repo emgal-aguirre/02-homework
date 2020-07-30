@@ -1,20 +1,26 @@
  # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
  Here is my responsive portfolio created using the Bootstrap CSS framework. 
- A few elements I used from bootstrap include 
- - navbar 
- -grid 
- -cards 
- -forms. 
+ A few elements I used from bootstrap include Navbars, Grids, Cards and Froms.
+ 
 
- Here is a link to the deployed website: https://emgal-aguirre.github.io/homework-two/.
+ Here is a link to the deployed website: https://emgal-aguirre.github.io/homework-two-responsive-portfolio/index.html
+
+Here are screen shots of my website. 
+
+
+
+
+
+
+
+
 
 
 
 
 Below are the listed instructs and requirments. 
 
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
