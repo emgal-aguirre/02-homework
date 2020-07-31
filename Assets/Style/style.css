@@ -39,6 +39,7 @@ h2 {
 
 p {
    font-family: 'Montserrat', sans-serif;  
+   padding: 5px
 }
 .font-small {
     font-family: 'Montserrat', sans-serif;
@@ -60,4 +61,8 @@ p {
 .intro {
     float: right;
     margin-left: 10%
+}
+
+#photo {
+    margin-right: 2%;
 }
